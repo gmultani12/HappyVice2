@@ -43,7 +43,7 @@ default_env: &default_env
 
   # Host used to determine direct requests vs CDN.
   # See RobotsController.
-  CANONICAL_HOST: 'rails4-starterkit.herokuapp.com'
+  CANONICAL_HOST: 'happyvice2.herokuapp.com'
 
   AUTH_FACEBOOK_KEY: '278917025621745'
   AUTH_FACEBOOK_SECRET: 'a104545f0241f605e046ec0b7153ae6d'
