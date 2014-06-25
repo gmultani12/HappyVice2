@@ -15,7 +15,7 @@ common: &common
     facebook: 'https://www.facebook.com/HappyViceApp'
     twitter: 'https://twitter.com/HappViceApp'
     google_plus: 'https://plus.google.com/HappViceApp'
-    linkedin: 'http://www.linkedin.com/HappViceApp'
+    linkedin: 'http://www.linkedin.com/HappyViceApp'
 
   contact:
     email: 'happyviceap@gmail.com'
@@ -45,8 +45,8 @@ default_env: &default_env
   # See RobotsController.
   CANONICAL_HOST: 'rails4-starterkit.herokuapp.com'
 
-  AUTH_FACEBOOK_KEY: '201539556694091'
-  AUTH_FACEBOOK_SECRET: '80ae1dc93961b7f9a79265af0eeca698'
+  AUTH_FACEBOOK_KEY: '278917025621745'
+  AUTH_FACEBOOK_SECRET: 'a104545f0241f605e046ec0b7153ae6d'
   AUTH_TWITTER_KEY: 'aLy55XCe1ZCfVb5qOGJhQ7J5Y'
   AUTH_TWITTER_SECRET: 'pOj2mefLlYSyLumEJyjn51AdS6ZqbkOW03NUcplST87OUSM2QC'
 
